@@ -1,0 +1,40 @@
+4.0 las vegas restaurants , vietnamese
+1.0 calgary asian fusion , chicken wings , food , cafes , chinese , desserts , juice bars & smoothies , restaurants
+3.0 scottsdale japanese , nightlife , restaurants , sushi bars
+1.0 phoenix sandwiches , beer , wine & spirits , beer bar , bars , breakfast & brunch , nightlife , american -lrb- new -rrb- , burgers , food , restaurants
+4.0 las vegas mexican , food trucks , food , restaurants
+5.0 north las vegas donuts , restaurants , ice cream & frozen yogurt , breakfast & brunch , coffee & tea , sandwiches , poutineries , cafes , bakeries , food
+4.0 las vegas steakhouses , american -lrb- traditional -rrb- , restaurants , vegetarian , american -lrb- new -rrb- , beer bar , cocktail bars , seafood , asian fusion , wine bars , sports bars , nightlife , bars
+3.0 madison beauty & spas , nail salons
+2.0 las vegas arts & entertainment , cinema
+5.0 henderson barbeque , korean , buffets , restaurants
+5.0 las vegas landscaping , tree services , home services
+5.0 las vegas breakfast & brunch , restaurants , american -lrb- traditional -rrb- , burgers , american -lrb- new -rrb- , filipino , diners
+3.0 toronto tapas bars , japanese , restaurants , lounges , bars , nightlife
+4.0 montréal restaurants , sushi bars , japanese
+4.0 las vegas italian , sandwiches , pizza , restaurants
+5.0 gilbert amateur sports teams , sports clubs , active life , nightlife , soccer , sports bars , local flavor , recreation centers , restaurants , bars
+4.0 phoenix restaurants , mexican
+3.0 toronto beauty & spas , nail salons , hair salons , eyelash service
+5.0 toronto breakfast & brunch , restaurants , mexican , french
+4.0 montréal japanese , sushi bars , restaurants
+2.0 toronto hotels & travel , hotels , event planning & services
+1.0 mississauga sushi bars , restaurants
+4.0 phoenix restaurants , pizza , sandwiches , italian
+5.0 las vegas food , coffee & tea
+4.0 montréal mediterranean , restaurants , french
+3.0 las vegas food , ice cream & frozen yogurt , shaved ice , desserts
+5.0 peoria restaurants , greek , mediterranean
+5.0 phoenix health & medical , chiropractors
+5.0 toronto bars , cocktail bars , restaurants , canadian -lrb- new -rrb- , american -lrb- new -rrb- , nightlife , vegetarian
+5.0 calgary arts & entertainment , arcades , coffee & tea , active life , juice bars & smoothies , escape games , food
+5.0 pittsburgh hotels & travel , event planning & services , hotels
+5.0 rock hill nightlife , cocktail bars , steakhouses , sushi bars , restaurants , japanese , bars
+5.0 scottsdale beauty & spas , event planning & services , tattoo , hair removal , women 's clothing , threading services , henna artists , shopping , fashion
+1.0 las vegas mexican , restaurants , salad , sandwiches , burgers , diners , breakfast & brunch , american -lrb- traditional -rrb-
+1.0 madison chinese , seafood , dim sum , soup , town car service , asian fusion , limos , local services , restaurants , transportation , hotels & travel , beauty & spas , szechuan , thai , day spas , septic services
+5.0 avon lake restaurants , lounges , food , sports bars , nightlife , beer , wine & spirits , bars
+3.0 phoenix shopping , drugstores , fashion , department stores
+3.0 surprise mexican , restaurants , nightlife , bars
+5.0 cleveland hotels & travel , hotels , event planning & services
+5.0 las vegas restaurants , mexican , tex-mex , vegan , american -lrb- new -rrb- , american -lrb- traditional -rrb- , breakfast & brunch , new mexican cuisine
